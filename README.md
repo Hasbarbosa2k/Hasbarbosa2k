@@ -22,4 +22,4 @@ Claude Code · Python · Node.js · Bash · Kubernetes · Docker · Linux · Pro
 
 ## Find me
 
-[hasbarbosa.website](https://hasbarbosa.website) · [LinkedIn](https://linkedin.com/in/hasbarbosa)
+[hasbarbosa.site](https://hasbarbosa.site) · [LinkedIn](https://linkedin.com/in/hasbarbosa)
